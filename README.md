@@ -1,0 +1,1 @@
+AWX Setting on OCI
